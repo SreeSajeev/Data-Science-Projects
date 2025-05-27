@@ -1,4 +1,5 @@
-##Contract Breach Risk Analysis for Government Procurement
+Contract Breach Risk Analysis for Government Procurement
+
 🔍 Objective
 To assess and cluster suppliers based on their likelihood of breaching contracts using historical procurement data from the GeBIZ platform. The goal is to identify high-risk suppliers for better contract awarding strategies.
 
